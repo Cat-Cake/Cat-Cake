@@ -1,4 +1,4 @@
-![Cat-Cake | Lucas](https://github.com/Cat-Cake/Cat-Cake/main/header.png)
+![Cat-Cake | Lucas](./header.png)
 
 ### Hi there 👋
 
