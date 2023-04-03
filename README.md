@@ -1,3 +1,5 @@
+![Cat-Cake | Lucas](https://github.com/Cat-Cake/Cat-Cake/main/header.png)
+
 ### Hi there 👋
 
 <!--
