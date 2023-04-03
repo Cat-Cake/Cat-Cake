@@ -1,5 +1,5 @@
 <!-- ![Cat-Cake | Lucas](./header.png) -->
-<img src="./header.png" width="100%">
+<!-- <img src="./header.png" width="100%"> -->
 
 ### Hi there 👋
 
