@@ -1,4 +1,4 @@
-![Cat-Cake | Lucas](./header.png)
+<!-- ![Cat-Cake | Lucas](./header.png) -->
 
 ### Hi there 👋
 
