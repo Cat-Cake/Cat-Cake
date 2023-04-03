@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Visit my Portfolio : https://cat-cake.github.io/Portfolio-V.2/
-- 📫 How to reach me: lucas.manot@gmail.com
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lucas-manot-4a0312225/) | [Personal Website](https://cat-cake.github.io/Portfolio-V.2/)
 - 🤔 I’m searching for a new project
 - 😄 Language: French, English
 
