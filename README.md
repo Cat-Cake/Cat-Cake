@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Visit my Portfolio : https://cat-cake.github.io/Portfolio-V.2/
+- 📫 How to reach me: lucas.manot@gmail.com
+- 🤔 I’m searching for a new project
+- 😄 Language: French
+
+Thanks for visiting
