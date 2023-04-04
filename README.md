@@ -1,7 +1,7 @@
 <!-- ![Cat-Cake | Lucas](./header.png) -->
 <!-- <img src="./header.png" width="100%"> -->
 
-### Hi there 👋
+### Hi I'm Lucas! 👋
 
 <!--
 **Cat-Cake/Cat-Cake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
